@@ -1,2 +1,5 @@
-# Biografia-
-Olá me chamo Hewerton  * Atualmente estudo na Universidade Mogi das Cruzes  * Estudante de Análise e desenvolvimento de Sistemas  * Trabalho na Coca Cola
+ Olá me chamo Hewerton 
+* Graduado em Analise e desenvolvimento de Sistemas
+* Universidade Mogi das Cruzes UMC
+* Em busca de uma oportunidade na area de TI 
+* Trabalhei na Coca Cola Femsa 
